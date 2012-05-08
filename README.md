@@ -1,7 +1,7 @@
 Usage
 =====
 
-mqtt-scrobbler automatically pollf for and publishes newly scrobbled tracks to an MQTT server.
+mqtt-scrobbler automatically polls for and publishes a user's newly scrobbled lastfm tracks to an MQTT server.
 
 See *examples/* and *settings.py*
 
